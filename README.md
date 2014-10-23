@@ -25,4 +25,5 @@ Copyright
 Authors:
 * Sebastian Olsson
 * Erik Odenman
+
 See **LICENSE.md** for details.
