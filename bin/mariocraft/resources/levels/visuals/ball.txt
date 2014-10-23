@@ -1,0 +1,11 @@
+//Visual parameters.
+
+IMAGE PATH: resources/images/ball.png
+IMAGE COLUMNS: 4
+IMAGE ROWS: 1
+
+//Standard ball animation.
+IMAGES X:  0 1 2 3
+IMAGES Y:  0 0 0 0
+ANIMATION: 0 1 2 3
+REPEAT:    TRUE

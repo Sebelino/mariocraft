@@ -1,0 +1,5 @@
+//Main visual settings.
+
+PROTAGONIST PLACEMENT X: 600					//x coordinate for the center of the protagonist.
+PROTAGONIST PLACEMENT Y: 400					//y coordinate for the center of the protagonist.
+COLOR TRANSPARENT: 255 128 128					//RGB.

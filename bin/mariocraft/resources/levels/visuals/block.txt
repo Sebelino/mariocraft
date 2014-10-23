@@ -1,0 +1,3 @@
+//Visual parameters.
+
+IMAGE PATH: resources/images/brick1.png

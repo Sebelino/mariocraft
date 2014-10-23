@@ -1,0 +1,89 @@
+//Visual parameters.
+
+IMAGE PATH: resources/images/protagonist.png
+IMAGE COLUMNS: 9					//Number of columns that the image will be split into.
+IMAGE ROWS: 2						//Number of rows that the image will be split into.
+
+//Left standing animation.
+IMAGES X:  0
+IMAGES Y:  0
+ANIMATION: 0
+REPEAT:    FALSE
+
+//Right standing animation.
+IMAGES X:  0
+IMAGES Y:  1
+ANIMATION: 0
+REPEAT:    FALSE
+
+//Left walking animation.
+IMAGES X:  0 1 2
+IMAGES Y:  0 0 0
+ANIMATION: 0 1 2
+REPEAT:    TRUE
+
+//Right walking animation.
+IMAGES X:  0 1 2
+IMAGES Y:  1 1 1
+ANIMATION: 0 1 2
+REPEAT:    TRUE
+
+//Left airborne animation.
+IMAGES X:  3
+IMAGES Y:  0
+ANIMATION: 0
+REPEAT:    FALSE
+
+//Right airborne animation.
+IMAGES X:  3
+IMAGES Y:  1
+ANIMATION: 0
+REPEAT:    FALSE
+
+//Left lifting animation.
+IMAGES X:  4
+IMAGES Y:  0
+ANIMATION: 0
+REPEAT:    FALSE
+
+//Right lifting animation.
+IMAGES X:  4
+IMAGES Y:  1
+ANIMATION: 0
+REPEAT:    FALSE
+
+//Left carrying standing animation.
+IMAGES X:  5
+IMAGES Y:  0
+ANIMATION: 0
+REPEAT:    FALSE
+
+//Right carrying standing animation.
+IMAGES X:  5
+IMAGES Y:  1
+ANIMATION: 0
+REPEAT:    FALSE
+
+//Left carrying walking animation.
+IMAGES X:  5 6 7
+IMAGES Y:  0
+ANIMATION: 0 1 2
+REPEAT:    TRUE
+
+//Right carrying walking animation.
+IMAGES X:  5 6 7
+IMAGES Y:  1
+ANIMATION: 0 1 2
+REPEAT:    TRUE
+
+//Left carrying airborne animation.
+IMAGES X:  8
+IMAGES Y:  0
+ANIMATION: 0 1 2
+REPEAT:    FALSE
+
+//Right carrying airborne animation.
+IMAGES X:  8
+IMAGES Y:  1
+ANIMATION: 0 1 2
+REPEAT:    FALSE

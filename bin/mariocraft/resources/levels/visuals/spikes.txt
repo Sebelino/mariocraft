@@ -1,0 +1,6 @@
+//Visual parameters.
+
+IMAGE LEFT PATH: resources/images/spikesLeft.png
+IMAGE RIGHT PATH: resources/images/spikesRight.png
+IMAGE UP PATH: resources/images/spikesUp.png
+IMAGE DOWN PATH: resources/images/spikesDown.png

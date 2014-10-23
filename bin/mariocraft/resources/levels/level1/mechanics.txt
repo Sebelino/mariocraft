@@ -1,0 +1,26 @@
+//Game mechanics parameters for this level.
+
+//BLOCK_SIZE	 100			//Let width = height for now.
+
+PROTAGONIST_WIDTH	 40
+PROTAGONIST_HEIGHT	 70
+PROTAGONIST_SPEED_WALK	 5
+PROTAGONIST_SPEED_JUMP	 15
+//PROTAGONIST_RANGE	 80			//Distance between the protagonist and a boulder required to lift it.
+
+BALL_WIDTH	 39
+BALL_HEIGHT	 39
+BALL_SPEED_X	 3
+BALL_SPEED_Y	 1
+
+//SPIKE_WIDTH	 50				//Perhaps best to always let spike width = block width.
+//SPIKE_HEIGHT	 50
+
+MOVING_PLATFORM_WIDTH 	150
+MOVING_PLATFORM_HEIGHT 	40
+MOVING_PLATFORM_PATTERN_X 300 -300  0
+MOVING_PLATFORM_PATTERN_Y 0    30  -30
+MOVING_PLATFORM_PERIODS   30  50  50
+
+//GOAL_WIDTH 100
+//GOAL_HEIGHT 100

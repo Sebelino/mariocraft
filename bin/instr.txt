@@ -1,0 +1,13 @@
+﻿Med kommandotolken:
+
+-cd:a dig till mappen bin.
+
+
+
+-Skriv:
+jar cvmf manifest.txt MarioCraft.jar mariocraft
+
+
+För att köra burken, skriv:
+
+java -jar Mariocraft.jar
